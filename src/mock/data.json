@@ -1,0 +1,602 @@
+[
+  {
+    "transactionID": "TXN001",
+    "date": "2024-07-01",
+    "description": "Salary Credit",
+    "amount": 3000.0
+  },
+  {
+    "transactionID": "TXN002",
+    "date": "2024-07-02",
+    "description": "Grocery Shopping",
+    "amount": -150.75
+  },
+  {
+    "transactionID": "TXN003",
+    "date": "2024-07-03",
+    "description": "Online Subscription",
+    "amount": -9.99
+  },
+  {
+    "transactionID": "TXN004",
+    "date": "2024-07-04",
+    "description": "Coffee Shop",
+    "amount": -4.5
+  },
+  {
+    "transactionID": "TXN005",
+    "date": "2024-07-05",
+    "description": "Electricity Bill Payment",
+    "amount": -120.0
+  },
+  {
+    "transactionID": "TXN006",
+    "date": "2024-07-06",
+    "description": "Water Bill Payment",
+    "amount": -45.0
+  },
+  {
+    "transactionID": "TXN007",
+    "date": "2024-07-07",
+    "description": "Internet Bill Payment",
+    "amount": -60.0
+  },
+  {
+    "transactionID": "TXN008",
+    "date": "2024-07-08",
+    "description": "Dinner at Restaurant",
+    "amount": -85.2
+  },
+  {
+    "transactionID": "TXN009",
+    "date": "2024-07-09",
+    "description": "Movie Tickets",
+    "amount": -25.0
+  },
+  {
+    "transactionID": "TXN010",
+    "date": "2024-07-10",
+    "description": "Gym Membership",
+    "amount": -50.0
+  },
+  {
+    "transactionID": "TXN011",
+    "date": "2024-07-11",
+    "description": "Bookstore Purchase",
+    "amount": -32.45
+  },
+  {
+    "transactionID": "TXN012",
+    "date": "2024-07-12",
+    "description": "Pharmacy Purchase",
+    "amount": -15.3
+  },
+  {
+    "transactionID": "TXN013",
+    "date": "2024-07-13",
+    "description": "Fuel Refill",
+    "amount": -60.0
+  },
+  {
+    "transactionID": "TXN014",
+    "date": "2024-07-14",
+    "description": "Car Maintenance",
+    "amount": -250.0
+  },
+  {
+    "transactionID": "TXN015",
+    "date": "2024-07-15",
+    "description": "Salary Bonus",
+    "amount": 500.0
+  },
+  {
+    "transactionID": "TXN016",
+    "date": "2024-07-16",
+    "description": "Gift Purchase",
+    "amount": -75.0
+  },
+  {
+    "transactionID": "TXN017",
+    "date": "2024-07-17",
+    "description": "Taxi Ride",
+    "amount": -18.5
+  },
+  {
+    "transactionID": "TXN018",
+    "date": "2024-07-18",
+    "description": "Coffee Shop",
+    "amount": -5.0
+  },
+  {
+    "transactionID": "TXN019",
+    "date": "2024-07-19",
+    "description": "Lunch at Cafe",
+    "amount": -22.0
+  },
+  {
+    "transactionID": "TXN020",
+    "date": "2024-07-20",
+    "description": "Online Course Fee",
+    "amount": -200.0
+  },
+  {
+    "transactionID": "TXN021",
+    "date": "2024-07-21",
+    "description": "Freelance Income",
+    "amount": 800.0
+  },
+  {
+    "transactionID": "TXN022",
+    "date": "2024-07-22",
+    "description": "Donation to Charity",
+    "amount": -100.0
+  },
+  {
+    "transactionID": "TXN023",
+    "date": "2024-07-23",
+    "description": "Pet Supplies",
+    "amount": -40.25
+  },
+  {
+    "transactionID": "TXN024",
+    "date": "2024-07-24",
+    "description": "Clothing Purchase",
+    "amount": -120.0
+  },
+  {
+    "transactionID": "TXN025",
+    "date": "2024-07-25",
+    "description": "Grocery Shopping",
+    "amount": -160.0
+  },
+  {
+    "transactionID": "TXN026",
+    "date": "2024-07-26",
+    "description": "Medical Checkup",
+    "amount": -85.0
+  },
+  {
+    "transactionID": "TXN027",
+    "date": "2024-07-27",
+    "description": "Coffee Shop",
+    "amount": -3.75
+  },
+  {
+    "transactionID": "TXN028",
+    "date": "2024-07-28",
+    "description": "ATM Withdrawal",
+    "amount": -200.0
+  },
+  {
+    "transactionID": "TXN029",
+    "date": "2024-07-29",
+    "description": "Dinner at Restaurant",
+    "amount": -90.0
+  },
+  {
+    "transactionID": "TXN030",
+    "date": "2024-07-30",
+    "description": "Movie Streaming Subscription",
+    "amount": -12.99
+  },
+  {
+    "transactionID": "TXN031",
+    "date": "2024-07-31",
+    "description": "Salary Credit",
+    "amount": 3000.0
+  },
+  {
+    "transactionID": "TXN032",
+    "date": "2024-08-01",
+    "description": "Grocery Shopping",
+    "amount": -140.6
+  },
+  {
+    "transactionID": "TXN033",
+    "date": "2024-08-02",
+    "description": "Coffee Shop",
+    "amount": -4.25
+  },
+  {
+    "transactionID": "TXN034",
+    "date": "2024-08-03",
+    "description": "Electric Scooter Rental",
+    "amount": -7.5
+  },
+  {
+    "transactionID": "TXN035",
+    "date": "2024-08-04",
+    "description": "Concert Tickets",
+    "amount": -150.0
+  },
+  {
+    "transactionID": "TXN036",
+    "date": "2024-08-05",
+    "description": "Utility Bill Payment",
+    "amount": -220.0
+  },
+  {
+    "transactionID": "TXN037",
+    "date": "2024-08-06",
+    "description": "Gym Membership",
+    "amount": -50.0
+  },
+  {
+    "transactionID": "TXN038",
+    "date": "2024-08-07",
+    "description": "Bookstore Purchase",
+    "amount": -45.0
+  },
+  {
+    "transactionID": "TXN039",
+    "date": "2024-08-08",
+    "description": "Fuel Refill",
+    "amount": -65.0
+  },
+  {
+    "transactionID": "TXN040",
+    "date": "2024-08-09",
+    "description": "Online Subscription",
+    "amount": -9.99
+  },
+  {
+    "transactionID": "TXN041",
+    "date": "2024-08-10",
+    "description": "Pharmacy Purchase",
+    "amount": -12.5
+  },
+  {
+    "transactionID": "TXN042",
+    "date": "2024-08-11",
+    "description": "Dinner at Restaurant",
+    "amount": -88.4
+  },
+  {
+    "transactionID": "TXN043",
+    "date": "2024-08-12",
+    "description": "Taxi Ride",
+    "amount": -15.0
+  },
+  {
+    "transactionID": "TXN044",
+    "date": "2024-08-13",
+    "description": "Coffee Shop",
+    "amount": -4.5
+  },
+  {
+    "transactionID": "TXN045",
+    "date": "2024-08-14",
+    "description": "Car Wash",
+    "amount": -25.0
+  },
+  {
+    "transactionID": "TXN046",
+    "date": "2024-08-15",
+    "description": "Gift Purchase",
+    "amount": -60.0
+  },
+  {
+    "transactionID": "TXN047",
+    "date": "2024-08-16",
+    "description": "ATM Withdrawal",
+    "amount": -100.0
+  },
+  {
+    "transactionID": "TXN048",
+    "date": "2024-08-17",
+    "description": "Lunch at Cafe",
+    "amount": -18.0
+  },
+  {
+    "transactionID": "TXN049",
+    "date": "2024-08-18",
+    "description": "Online Course Fee",
+    "amount": -150.0
+  },
+  {
+    "transactionID": "TXN050",
+    "date": "2024-08-19",
+    "description": "Freelance Income",
+    "amount": 950.0
+  },
+  {
+    "transactionID": "TXN051",
+    "date": "2024-08-20",
+    "description": "Donation to Charity",
+    "amount": -80.0
+  },
+  {
+    "transactionID": "TXN052",
+    "date": "2024-08-21",
+    "description": "Pet Supplies",
+    "amount": -35.0
+  },
+  {
+    "transactionID": "TXN053",
+    "date": "2024-08-22",
+    "description": "Clothing Purchase",
+    "amount": -110.0
+  },
+  {
+    "transactionID": "TXN054",
+    "date": "2024-08-23",
+    "description": "Grocery Shopping",
+    "amount": -155.0
+  },
+  {
+    "transactionID": "TXN055",
+    "date": "2024-08-24",
+    "description": "Medical Checkup",
+    "amount": -90.0
+  },
+  {
+    "transactionID": "TXN056",
+    "date": "2024-08-25",
+    "description": "Coffee Shop",
+    "amount": -4.75
+  },
+  {
+    "transactionID": "TXN057",
+    "date": "2024-08-26",
+    "description": "ATM Withdrawal",
+    "amount": -150.0
+  },
+  {
+    "transactionID": "TXN058",
+    "date": "2024-08-27",
+    "description": "Dinner at Restaurant",
+    "amount": -92.0
+  },
+  {
+    "transactionID": "TXN059",
+    "date": "2024-08-28",
+    "description": "Movie Streaming Subscription",
+    "amount": -12.99
+  },
+  {
+    "transactionID": "TXN060",
+    "date": "2024-08-29",
+    "description": "Electricity Bill Payment",
+    "amount": -130.0
+  },
+  {
+    "transactionID": "TXN061",
+    "date": "2024-08-30",
+    "description": "Salary Credit",
+    "amount": 3000.0
+  },
+  {
+    "transactionID": "TXN062",
+    "date": "2024-08-31",
+    "description": "Grocery Shopping",
+    "amount": -145.5
+  },
+  {
+    "transactionID": "TXN063",
+    "date": "2024-09-01",
+    "description": "Coffee Shop",
+    "amount": -4.0
+  },
+  {
+    "transactionID": "TXN064",
+    "date": "2024-09-02",
+    "description": "Electric Scooter Rental",
+    "amount": -8.0
+  },
+  {
+    "transactionID": "TXN065",
+    "date": "2024-09-03",
+    "description": "Concert Tickets",
+    "amount": -160.0
+  },
+  {
+    "transactionID": "TXN066",
+    "date": "2024-09-04",
+    "description": "Utility Bill Payment",
+    "amount": -210.0
+  },
+  {
+    "transactionID": "TXN067",
+    "date": "2024-09-05",
+    "description": "Gym Membership",
+    "amount": -50.0
+  },
+  {
+    "transactionID": "TXN068",
+    "date": "2024-09-06",
+    "description": "Bookstore Purchase",
+    "amount": -48.0
+  },
+  {
+    "transactionID": "TXN069",
+    "date": "2024-09-07",
+    "description": "Fuel Refill",
+    "amount": -70.0
+  },
+  {
+    "transactionID": "TXN070",
+    "date": "2024-09-08",
+    "description": "Online Subscription",
+    "amount": -9.99
+  },
+  {
+    "transactionID": "TXN071",
+    "date": "2024-09-09",
+    "description": "Pharmacy Purchase",
+    "amount": -14.0
+  },
+  {
+    "transactionID": "TXN072",
+    "date": "2024-09-10",
+    "description": "Dinner at Restaurant",
+    "amount": -95.0
+  },
+  {
+    "transactionID": "TXN073",
+    "date": "2024-09-11",
+    "description": "Taxi Ride",
+    "amount": -16.0
+  },
+  {
+    "transactionID": "TXN074",
+    "date": "2024-09-12",
+    "description": "Coffee Shop",
+    "amount": -5.0
+  },
+  {
+    "transactionID": "TXN075",
+    "date": "2024-09-13",
+    "description": "Car Wash",
+    "amount": -27.0
+  },
+  {
+    "transactionID": "TXN076",
+    "date": "2024-09-14",
+    "description": "Gift Purchase",
+    "amount": -65.0
+  },
+  {
+    "transactionID": "TXN077",
+    "date": "2024-09-15",
+    "description": "ATM Withdrawal",
+    "amount": -120.0
+  },
+  {
+    "transactionID": "TXN078",
+    "date": "2024-09-16",
+    "description": "Lunch at Cafe",
+    "amount": -20.0
+  },
+  {
+    "transactionID": "TXN079",
+    "date": "2024-09-17",
+    "description": "Online Course Fee",
+    "amount": -180.0
+  },
+  {
+    "transactionID": "TXN080",
+    "date": "2024-09-18",
+    "description": "Freelance Income",
+    "amount": 900.0
+  },
+  {
+    "transactionID": "TXN081",
+    "date": "2024-09-19",
+    "description": "Donation to Charity",
+    "amount": -90.0
+  },
+  {
+    "transactionID": "TXN082",
+    "date": "2024-09-20",
+    "description": "Pet Supplies",
+    "amount": -38.0
+  },
+  {
+    "transactionID": "TXN083",
+    "date": "2024-09-21",
+    "description": "Clothing Purchase",
+    "amount": -130.0
+  },
+  {
+    "transactionID": "TXN084",
+    "date": "2024-09-22",
+    "description": "Grocery Shopping",
+    "amount": -165.0
+  },
+  {
+    "transactionID": "TXN085",
+    "date": "2024-09-23",
+    "description": "Medical Checkup",
+    "amount": -95.0
+  },
+  {
+    "transactionID": "TXN086",
+    "date": "2024-09-24",
+    "description": "Coffee Shop",
+    "amount": -5.25
+  },
+  {
+    "transactionID": "TXN087",
+    "date": "2024-09-25",
+    "description": "ATM Withdrawal",
+    "amount": -170.0
+  },
+  {
+    "transactionID": "TXN088",
+    "date": "2024-09-26",
+    "description": "Dinner at Restaurant",
+    "amount": -98.0
+  },
+  {
+    "transactionID": "TXN089",
+    "date": "2024-09-27",
+    "description": "Movie Streaming Subscription",
+    "amount": -12.99
+  },
+  {
+    "transactionID": "TXN090",
+    "date": "2024-09-28",
+    "description": "Electricity Bill Payment",
+    "amount": -135.0
+  },
+  {
+    "transactionID": "TXN091",
+    "date": "2024-09-29",
+    "description": "Salary Credit",
+    "amount": 3000.0
+  },
+  {
+    "transactionID": "TXN092",
+    "date": "2024-09-30",
+    "description": "Grocery Shopping",
+    "amount": -148.0
+  },
+  {
+    "transactionID": "TXN093",
+    "date": "2024-10-01",
+    "description": "Coffee Shop",
+    "amount": -4.25
+  },
+  {
+    "transactionID": "TXN094",
+    "date": "2024-10-02",
+    "description": "Electric Scooter Rental",
+    "amount": -8.5
+  },
+  {
+    "transactionID": "TXN095",
+    "date": "2024-10-03",
+    "description": "Concert Tickets",
+    "amount": -170.0
+  },
+  {
+    "transactionID": "TXN096",
+    "date": "2024-10-04",
+    "description": "Utility Bill Payment",
+    "amount": -215.0
+  },
+  {
+    "transactionID": "TXN097",
+    "date": "2024-10-05",
+    "description": "Gym Membership",
+    "amount": -50.0
+  },
+  {
+    "transactionID": "TXN098",
+    "date": "2024-10-06",
+    "description": "Bookstore Purchase",
+    "amount": -52.0
+  },
+  {
+    "transactionID": "TXN099",
+    "date": "2024-10-07",
+    "description": "Fuel Refill",
+    "amount": -75.0
+  },
+  {
+    "transactionID": "TXN100",
+    "date": "2024-10-08",
+    "description": "Tax Refund",
+    "amount": 500.0
+  }
+]

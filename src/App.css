@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.pagination button {
+  margin: 0 10px;
+}
